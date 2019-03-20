@@ -1,7 +1,7 @@
 # ReadMyMessages
 A simple Android Python script which reads aloud all of the unread SMS messages on your device.
 
-This is a very basic functioning "text message voice mail" program I wrote entirely on my HTC 10 device in QPython3. I spent about an hour making this, and the functionality is very limited in its current state, but I thought it would be fun to mess around with. Feel free to use this code in any way, mess around with it, make it better, whatever you like. 
+This is a very basic functioning "text message voice mail" program I wrote entirely on my HTC 10 device in QPython3. I spent about an hour making this, and the functionality is very limited in its current state. Feel free to use this code in any way, mess around with it, make it better, whatever you like. It's also a fun little learing experience if you wish to make your own :)
 
 If you are interested in contributing to this simple project to turn it into something bigger, please feel free to let me know!
 
