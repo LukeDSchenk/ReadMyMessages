@@ -5,6 +5,6 @@ This is a very basic functioning "text message voice mail" program I wrote entir
 
 If you are interested in contributing to this simple project to turn it into something bigger, please feel free to let me know!
 
-### Running the script
+## Running the script
 To run this script on your android device, you will need to install QPython3, or a similar Python IDE for Android.
 I may or may not try and update this into a full fledged kivy Android/IOS application in the future. We'll see!
