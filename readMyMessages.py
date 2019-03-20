@@ -27,9 +27,6 @@ messages.reverse()
 num_messages = len(messages)
 print(unreads)
 
-#for message in messages:
-    #print(message['body'])
-
 droid.ttsSpeak("Welcome to your unread messages box! You currently have "
 	+ str(num_messages) + " unread text messages.")   
 	 
@@ -37,9 +34,6 @@ if num_messages == 0:
     droid.ttsSpeak("Goodbye!")
 else:
     read_aloud(messages)
-
-#for message in messages:
-    #print(message['body'])
 
 droid.ttsSpeak("Welcome to your unread messages box! You currently have "
 	+ str(num_messages) + " unread text messages.")   
